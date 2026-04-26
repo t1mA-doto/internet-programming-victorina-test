@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Начинаем с простенького. Судя по мультфильму, Чебурашка и Гена много гуляли и ходили пешком. А вот если бы они устали, то могли бы спокойно воспользоваться любым другим способом передвижения, кроме одного. Какого?",
+    "answers": [
+      "../src/assets/answers/Answer1.png",
+      "../src/assets/answers/Answer2.png",
+      "../src/assets/answers/Answer3.png",
+      "../src/assets/answers/Answer4.png"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Какое из представленных зданий находится во Франции?",
+    "answers": [
+      "../src/assets/answers/statuya_svobody.jpg",
+      "../src/assets/answers/eifel.jpg",
+      "../src/assets/answers/kremlin.jpg",
+      "../src/assets/answers/piza.jpg"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Что из этого является фруктом?",
+    "answers": [
+      "../src/assets/answers/ogurchik.jpg",
+      "../src/assets/answers/pomidor.jpg",
+      "../src/assets/answers/avokado.jpg",
+      "../src/assets/answers/kabachok.jpg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Где изображен железный человек?",
+    "answers": [
+      "../src/assets/answers/zhel_chel.jpg",
+      "../src/assets/answers/chel_pauk.jpg",
+      "../src/assets/answers/hulk.jpg",
+      "../src/assets/answers/captain.jpg"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Где изображен президент России?",
+    "answers": [
+      "../src/assets/answers/putin.jpg",
+      "../src/assets/answers/lukashenko.jpg",
+      "../src/assets/answers/si_jin_pin.jpg",
+      "../src/assets/answers/trump.jpg"
+    ],
+    "correct": 0
+  }
+]
